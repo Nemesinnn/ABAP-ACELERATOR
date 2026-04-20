@@ -1290,8 +1290,7 @@ class ToolHandlers:
             # GET /sap/bc/adt/cts/transportrequests?targets=true&configUri=%2Fsap%2Fbc%2Fadt%2Fcts%2Ftransportrequests%2Fsearchconfiguration%2Fconfigurations%2FE3EA780B64C31FD0B5A7444450EBC84A
             detail_url = f"/sap/bc/adt/cts/transportrequests"
             detail_params = {
-                'targets': 'true',
-                'configUri': '/sap/bc/adt/cts/transportrequests/searchconfiguration/configurations/E3EA780B64C31FD0B5A7444450EBC84A'
+                'targets': 'true'
             }
             
             detail_headers = await self.sap_client._get_appropriate_headers()

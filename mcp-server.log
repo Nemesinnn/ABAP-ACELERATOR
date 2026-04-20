@@ -1,0 +1,367 @@
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 13:08:12] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 13:08:12] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 13:08:12] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 13:08:12] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 13:08:12] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 13:08:12] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 13:08:12] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 13:09:27] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 13:09:27] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 13:09:27] [INFO] [server.fastmcp_server] Establishing connection to SAP system
+[2026-04-20 13:09:27] [INFO] [sap.sap_client] Connecting to SAP system: https://saps373.sap.convista.local:44300
+[2026-04-20 13:09:27] [WARNING] [sap.sap_client] SSL verification DISABLED - this is insecure and should only be used for testing!
+[2026-04-20 13:09:27] [INFO] [sap.sap_client] Attempting basic authentication (priority 1)
+[2026-04-20 13:09:27] [INFO] [sap.sap_client] Captured 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 13:09:27] [INFO] [sap.sap_client] Authentication successful, CSRF token: ZHQcEgW7hFladRAO0OwqFA==
+[2026-04-20 13:09:27] [INFO] [sap.sap_client] Successfully connected using basic authentication
+[2026-04-20 13:09:27] [INFO] [server.fastmcp_server] Successfully connected to SAP system
+[2026-04-20 13:09:27] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 13:12:15] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 15:27:20] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 15:27:20] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 15:27:20] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 15:27:20] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 15:27:20] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 15:27:20] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 15:27:20] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 15:27:20] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 15:27:24] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 15:27:24] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 15:27:24] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 15:27:24] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 15:27:24] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 15:27:24] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 15:27:24] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 15:41:25] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 15:53:36] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 15:53:36] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 15:53:36] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 15:53:36] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 15:53:36] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 15:53:36] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 15:53:36] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 15:53:36] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 15:53:42] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 15:53:42] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 15:53:42] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 15:53:42] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 15:53:42] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 15:53:42] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 15:53:42] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 15:54:27] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 16:05:01] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 16:05:01] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 16:05:01] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 16:05:01] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 16:05:01] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 16:05:01] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 16:05:01] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:05:01] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 16:05:07] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 16:05:07] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 16:05:07] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 16:05:07] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 16:05:07] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 16:05:07] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 16:05:07] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 16:05:08] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 16:05:08] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 16:05:08] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 16:05:08] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 16:05:08] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 16:05:08] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 16:05:08] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:07:26] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:07:26] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:07:26] [INFO] [server.fastmcp_server] Establishing connection to SAP system
+[2026-04-20 16:07:26] [INFO] [sap.sap_client] Connecting to SAP system: https://saps373.sap.convista.local:44300
+[2026-04-20 16:07:26] [WARNING] [sap.sap_client] SSL verification DISABLED - this is insecure and should only be used for testing!
+[2026-04-20 16:07:26] [INFO] [sap.sap_client] Attempting basic authentication (priority 1)
+[2026-04-20 16:07:26] [INFO] [sap.sap_client] Captured 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:07:26] [INFO] [sap.sap_client] Authentication successful, CSRF token: 3p4y-yPxWAHUD7pEnXSVvA==
+[2026-04-20 16:07:26] [INFO] [sap.sap_client] Successfully connected using basic authentication
+[2026-04-20 16:07:26] [INFO] [server.fastmcp_server] Successfully connected to SAP system
+[2026-04-20 16:07:26] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:07:31] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:07:31] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:07:31] [INFO] [server.tool_handlers] Getting transport requests for user ESALAZAR
+[2026-04-20 16:07:31] [INFO] [server.tool_handlers] Final query user (uppercase): ESALAZAR
+[2026-04-20 16:07:31] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:07:31] [INFO] [server.tool_handlers] Getting transport list for user ESALAZAR
+[2026-04-20 16:07:31] [INFO] [server.tool_handlers] Transport list URL: /sap/bc/adt/cts/transports
+[2026-04-20 16:07:31] [INFO] [server.tool_handlers] Transport list params: {"user": "ESALAZAR", "trfunction": "*", "_action": "FIND"}
+[2026-04-20 16:07:31] [INFO] [server.tool_handlers] Transport list headers Accept: application/vnd.sap.as+xml;charset=UTF-8;dataname=com.sap.adt.CorrectionRequests
+[2026-04-20 16:07:32] [INFO] [server.tool_handlers] Transport list response length: 453
+[2026-04-20 16:07:32] [INFO] [server.tool_handlers] Transport list response content: <?xml version="1.0" encoding="utf-8"?><asx:abap version="1.0" xmlns:asx="http://www.sap.com/abapxml"><asx:values><DATA><CTS_REQ_HEADER><TRKORR>S12K904055</TRKORR><TRFUNCTION>K</TRFUNCTION><TRSTATUS>D</TRSTATUS><TARSYSTEM>/QA/</TARSYSTEM><AS4USER>ESALAZAR</AS4USER><AS4DATE>2026-03-30</AS4DATE><AS4TIME>10:23:43</AS4TIME><AS4TEXT>CESSD-2347 - Generador de contexto IA</AS4TEXT><CLIENT>101</CLIENT><REPOID/></CTS_REQ_HEADER></DATA></asx:values></asx:abap>
+[2026-04-20 16:07:32] [INFO] [server.tool_handlers] Found transport: S12K904055 - CESSD-2347 - Generador de contexto IA (Status: D)
+[2026-04-20 16:07:32] [INFO] [server.tool_handlers] Getting detailed info for 1 transports
+[2026-04-20 16:07:32] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:07:32] [INFO] [server.tool_handlers] Getting transport organizer tree with config
+[2026-04-20 16:07:32] [INFO] [server.tool_handlers] Detail URL: /sap/bc/adt/cts/transportrequests
+[2026-04-20 16:07:32] [INFO] [server.tool_handlers] Detail params: {"targets": "true", "configUri": "/sap/bc/adt/cts/transportrequests/searchconfiguration/configurations/E3EA780B64C31FD0B5A7444450EBC84A"}
+[2026-04-20 16:07:32] [ERROR] [server.tool_handlers] Failed to get transport organizer tree: 404
+[2026-04-20 16:07:32] [ERROR] [server.tool_handlers] Transport organizer error: <?xml version="1.0" encoding="utf-8"?><exc:exception xmlns:exc="http://www.sap.com/abapxml/types/communicationframework"><namespace id="com.sap.adt"/><type id="ExceptionResourceNotFound"/><message lang="EN">Resource configuration E3EA780B64C31FD0B5A7444450EBC84A does not exist.</message><localizedMessage lang="EN">Resource configuration E3EA780B64C31FD0B5A7444450EBC84A does not exist.</localizedMessage><properties><entry key="T100KEY-ID">SADT_RESOURCE</entry><entry key="T100KEY-NO">002</entry><e
+[2026-04-20 16:07:32] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:07:41] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:07:41] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:07:41] [INFO] [server.tool_handlers] Searching objects with query: S12K904055
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Searching objects with query: S12K904055
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Search URL: /sap/bc/adt/repository/informationsystem/search?sap-client=101
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Search params: {'operation': 'quickSearch', 'query': 'S12K904055', 'maxResults': 50}
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Search response status: 200
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Found 0 object references in search response
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Parsed 0 valid search results
+[2026-04-20 16:07:41] [INFO] [sap.sap_client] Found 0 objects
+[2026-04-20 16:07:41] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:07:47] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:07:47] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:07:47] [INFO] [server.tool_handlers] Running ATC check for S12K904055
+[2026-04-20 16:07:47] [INFO] [sap.sap_client] Running ATC check for S12K904055
+[2026-04-20 16:07:47] [INFO] [sap.sap_client] Step 1: Creating ATC worklist
+[2026-04-20 16:07:47] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:07:47] [INFO] [sap.sap_client] Worklist created: E3777D41F5D21FE18F9849D7856A13B1
+[2026-04-20 16:07:47] [INFO] [sap.sap_client] Step 2: Starting ATC run
+[2026-04-20 16:07:47] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:08:47] [INFO] [mcp.server.lowlevel.server] Request 5 cancelled - duplicate response suppressed
+[2026-04-20 16:08:56] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:08:56] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:08:56] [INFO] [server.tool_handlers] Getting transport requests for user ESALAZAR
+[2026-04-20 16:08:56] [INFO] [server.tool_handlers] Final query user (uppercase): ESALAZAR
+[2026-04-20 16:08:56] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:08:56] [INFO] [server.tool_handlers] Getting transport list for user ESALAZAR
+[2026-04-20 16:08:56] [INFO] [server.tool_handlers] Transport list URL: /sap/bc/adt/cts/transports
+[2026-04-20 16:08:56] [INFO] [server.tool_handlers] Transport list params: {"user": "ESALAZAR", "trfunction": "*", "_action": "FIND"}
+[2026-04-20 16:08:56] [INFO] [server.tool_handlers] Transport list headers Accept: application/vnd.sap.as+xml;charset=UTF-8;dataname=com.sap.adt.CorrectionRequests
+[2026-04-20 16:09:56] [INFO] [mcp.server.lowlevel.server] Request 6 cancelled - duplicate response suppressed
+[2026-04-20 16:14:36] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:14:36] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:14:36] [INFO] [server.tool_handlers] Getting source code for CL_GUI_FRONTEND_SERVICES
+[2026-04-20 16:14:36] [INFO] [sap.sap_client] Getting source code for CL_GUI_FRONTEND_SERVICES
+[2026-04-20 16:14:36] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:15:36] [INFO] [mcp.server.lowlevel.server] Request 7 cancelled - duplicate response suppressed
+[2026-04-20 16:15:48] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:15:48] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:15:48] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:15:58] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:15:58] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:15:58] [INFO] [server.tool_handlers] Getting source code for CL_GUI_FRONTEND_SERVICES
+[2026-04-20 16:15:58] [INFO] [sap.sap_client] Getting source code for CL_GUI_FRONTEND_SERVICES
+[2026-04-20 16:15:58] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:16:58] [INFO] [mcp.server.lowlevel.server] Request 9 cancelled - duplicate response suppressed
+[2026-04-20 16:17:06] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:17:06] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:17:06] [INFO] [server.tool_handlers] Searching objects with query: CL_GUI_FRONTEND_SERVICES
+[2026-04-20 16:17:06] [INFO] [sap.sap_client] Searching objects with query: CL_GUI_FRONTEND_SERVICES
+[2026-04-20 16:17:06] [INFO] [sap.sap_client] Search URL: /sap/bc/adt/repository/informationsystem/search?sap-client=101
+[2026-04-20 16:17:06] [INFO] [sap.sap_client] Search params: {'operation': 'quickSearch', 'query': 'CL_GUI_FRONTEND_SERVICES', 'maxResults': 5, 'objectType': 'CLAS'}
+[2026-04-20 16:17:06] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:17:55] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:17:55] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:17:55] [INFO] [server.tool_handlers] Getting transport requests for user ESALAZAR
+[2026-04-20 16:17:55] [INFO] [server.tool_handlers] Final query user (uppercase): ESALAZAR
+[2026-04-20 16:17:55] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:17:55] [INFO] [server.tool_handlers] Getting transport list for user ESALAZAR
+[2026-04-20 16:17:55] [INFO] [server.tool_handlers] Transport list URL: /sap/bc/adt/cts/transports
+[2026-04-20 16:17:55] [INFO] [server.tool_handlers] Transport list params: {"user": "ESALAZAR", "trfunction": "*", "_action": "FIND"}
+[2026-04-20 16:17:55] [INFO] [server.tool_handlers] Transport list headers Accept: application/vnd.sap.as+xml;charset=UTF-8;dataname=com.sap.adt.CorrectionRequests
+[2026-04-20 16:18:06] [INFO] [mcp.server.lowlevel.server] Request 10 cancelled - duplicate response suppressed
+[2026-04-20 16:18:55] [INFO] [mcp.server.lowlevel.server] Request 11 cancelled - duplicate response suppressed
+[2026-04-20 16:19:01] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:19:01] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:19:01] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:19:05] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:19:05] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:19:05] [INFO] [server.tool_handlers] Getting transport requests for user ESALAZAR
+[2026-04-20 16:19:05] [INFO] [server.tool_handlers] Final query user (uppercase): ESALAZAR
+[2026-04-20 16:19:05] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:19:05] [INFO] [server.tool_handlers] Getting transport list for user ESALAZAR
+[2026-04-20 16:19:05] [INFO] [server.tool_handlers] Transport list URL: /sap/bc/adt/cts/transports
+[2026-04-20 16:19:05] [INFO] [server.tool_handlers] Transport list params: {"user": "ESALAZAR", "trfunction": "*", "_action": "FIND"}
+[2026-04-20 16:19:05] [INFO] [server.tool_handlers] Transport list headers Accept: application/vnd.sap.as+xml;charset=UTF-8;dataname=com.sap.adt.CorrectionRequests
+[2026-04-20 16:20:05] [INFO] [mcp.server.lowlevel.server] Request 13 cancelled - duplicate response suppressed
+[2026-04-20 16:21:58] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 16:22:05] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 16:22:05] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 16:22:05] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 16:22:05] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 16:22:05] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 16:22:05] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 16:22:05] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:23:53] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 16:24:16] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 16:24:16] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 16:24:16] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 16:24:16] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 16:24:16] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 16:24:16] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 16:24:16] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:24:16] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 16:24:21] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 16:24:21] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 16:24:21] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 16:24:21] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 16:24:21] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 16:24:21] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 16:24:21] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:27:39] [INFO] [mcp.server.lowlevel.server] Processing request of type CallToolRequest
+[2026-04-20 16:27:39] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type CallToolRequest
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] Getting transport requests for user ESALAZAR
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] SAP client not connected, attempting to connect...
+[2026-04-20 16:27:39] [INFO] [sap.sap_client] Connecting to SAP system: https://saps373.sap.convista.local:44300
+[2026-04-20 16:27:39] [WARNING] [sap.sap_client] SSL verification DISABLED - this is insecure and should only be used for testing!
+[2026-04-20 16:27:39] [INFO] [sap.sap_client] Attempting basic authentication (priority 1)
+[2026-04-20 16:27:39] [INFO] [sap.sap_client] Captured 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:27:39] [INFO] [sap.sap_client] Authentication successful, CSRF token: jEMtN6B53Y5b4ruChAUhWg==
+[2026-04-20 16:27:39] [INFO] [sap.sap_client] Successfully connected using basic authentication
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] Successfully connected to SAP system
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] Final query user (uppercase): ESALAZAR
+[2026-04-20 16:27:39] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] Getting transport list for user ESALAZAR
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] Transport list URL: /sap/bc/adt/cts/transports
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] Transport list params: {"user": "ESALAZAR", "trfunction": "*", "_action": "FIND"}
+[2026-04-20 16:27:39] [INFO] [server.tool_handlers] Transport list headers Accept: application/vnd.sap.as+xml;charset=UTF-8;dataname=com.sap.adt.CorrectionRequests
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Transport list response length: 453
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Transport list response content: <?xml version="1.0" encoding="utf-8"?><asx:abap version="1.0" xmlns:asx="http://www.sap.com/abapxml"><asx:values><DATA><CTS_REQ_HEADER><TRKORR>S12K904055</TRKORR><TRFUNCTION>K</TRFUNCTION><TRSTATUS>D</TRSTATUS><TARSYSTEM>/QA/</TARSYSTEM><AS4USER>ESALAZAR</AS4USER><AS4DATE>2026-03-30</AS4DATE><AS4TIME>10:23:43</AS4TIME><AS4TEXT>CESSD-2347 - Generador de contexto IA</AS4TEXT><CLIENT>101</CLIENT><REPOID/></CTS_REQ_HEADER></DATA></asx:values></asx:abap>
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Found transport: S12K904055 - CESSD-2347 - Generador de contexto IA (Status: D)
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Getting detailed info for 1 transports
+[2026-04-20 16:27:40] [INFO] [sap.sap_client] Using basic auth with 4 session cookies: ['sap-contextid', 'sap-usercontext', 'MYSAPSSO2', 'SAP_SESSIONID_S12_101']
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Getting transport organizer tree with config
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Detail URL: /sap/bc/adt/cts/transportrequests
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Detail params: {"targets": "true"}
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Transport organizer tree response length: 297
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Transport organizer XML: <?xml version="1.0" encoding="utf-8"?><tm:root adtcore:name="ESALAZAR" adtcore:changedAt="2026-04-20T16:27:40Z" adtcore:createdAt="2026-04-20T16:27:40Z" adtcore:changedBy="ESALAZAR" adtcore:createdBy="ESALAZAR" xmlns:tm="http://www.sap.com/cts/adt/tm" xmlns:adtcore="http://www.sap.com/adt/core"/>
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Searching for transport S12K904055 in organizer tree
+[2026-04-20 16:27:40] [WARNING] [server.tool_handlers] Transport S12K904055 not found in XML tree
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Available request numbers in tree: []
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Sample elements with tm:number: []
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Sample task elements: []
+[2026-04-20 16:27:40] [INFO] [server.tool_handlers] Sample object elements: []
+[2026-04-20 16:27:40] [WARNING] [server.tool_handlers] Could not find transport S12K904055 in organizer tree
+[2026-04-20 16:27:40] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 16:41:01] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 17:21:53] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 17:21:53] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 17:21:53] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 17:21:53] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 17:21:53] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 17:21:53] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 17:21:53] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 17:21:53] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 17:21:56] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 17:21:56] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 17:21:56] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 17:21:56] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 17:21:56] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 17:21:56] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 17:21:56] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 17:25:55] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 23:10:29] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 23:10:29] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 23:10:29] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 23:10:29] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 23:10:29] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 23:10:29] [DEBUG] [httpcore.connection] connect_tcp.started host='pypi.org' port=443 local_address=None timeout=2.0 socket_options=None
+[2026-04-20 23:10:29] [DEBUG] [httpcore.connection] connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022D594496A0>
+[2026-04-20 23:10:29] [DEBUG] [httpcore.connection] start_tls.started ssl_context=<ssl.SSLContext object at 0x0000022D593E4F50> server_hostname='pypi.org' timeout=2.0
+[2026-04-20 23:10:29] [DEBUG] [httpcore.connection] start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022D592D3B10>
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] send_request_headers.started request=<Request [b'GET']>
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] send_request_headers.complete
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] send_request_body.started request=<Request [b'GET']>
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] send_request_body.complete
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] receive_response_headers.started request=<Request [b'GET']>
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Connection', b'keep-alive'), (b'Content-Length', b'32440'), (b'etag', b'"dy0iPkiM2LkuwcCv3XzUCQ"'), (b'server', b'gunicorn'), (b'access-control-allow-methods', b'GET'), (b'referrer-policy', b'origin-when-cross-origin'), (b'x-pypi-last-serial', b'36094746'), (b'cache-control', b'max-age=900, public'), (b'access-control-max-age', b'86400'), (b'access-control-allow-headers', b'Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since'), (b'content-encoding', b'gzip'), (b'access-control-allow-origin', b'*'), (b'content-security-policy', b"base-uri 'self'; connect-src 'self' https://api.github.com/repos/ https://api.github.com/search/issues https://gitlab.com/api/ https://analytics.python.org *.ethicalads.io https://api.pwnedpasswords.com https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/sre/mathmaps/ https://2p66nmmycsj3.statuspage.io; default-src 'none'; font-src 'self'; form-action 'self' https://checkout.stripe.com https://billing.stripe.com; frame-ancestors 'none'; frame-src 'none'; img-src 'self' https://pypi-camo.freetls.fastly.net/ *.ethicalads.io ethicalads.blob.core.windows.net; script-src 'self' https://analytics.python.org *.ethicalads.io 'sha256-U3hKDidudIaxBDEzwGJApJgPEf2mWk6cfMWghrAa6i0=' https://cdn.jsdelivr.net/npm/mathjax@3.2.2/ 'sha256-1CldwzdEg2k1wTmf7s5RWVd7NMXI/7nxxjJM2C4DqII=' 'sha256-0POaN8stWYQxhzjKS+/eOfbbJ/u4YHO5ZagJvLpMypo='; style-src 'self' *.ethicalads.io 'sha256-2YHqZokjiizkHi1Zt+6ar0XJ0OeEy/egBnlm+MDMtrM=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-JLEjeN9e5dGsz5475WyRaoA4eQOdNPxDIeUhclnJDCE=' 'sha256-mQyxHEuwZJqpxCw3SLmc4YOySNKXunyu2Oiz1r3/wAE=' 'sha256-OCf+kv5Asiwp++8PIevKBYSgnNLNUZvxAp4a7wMLuKA=' 'sha256-h5LOiLhk6wiJrGsG5ItM0KimwzWQH/yAcmoJDJL//bY='"), (b'content-type', b'application/json'), (b'access-control-expose-headers', b'X-PyPI-Last-Serial'), (b'Accept-Ranges', b'bytes'), (b'Date', b'Mon, 20 Apr 2026 21:10:29 GMT'), (b'X-Served-By', b'cache-iad-kjyo7100175-IAD, cache-iad-kjyo7100175-IAD, cache-toj-leto2350035-TOJ'), (b'X-Cache', b'MISS, HIT, HIT'), (b'X-Cache-Hits', b'0, 1324, 138'), (b'X-Timer', b'S1776719429.276719,VS0,VE0'), (b'Vary', b'Accept-Encoding'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Frame-Options', b'deny'), (b'X-XSS-Protection', b'1; mode=block'), (b'X-Content-Type-Options', b'nosniff'), (b'X-Permitted-Cross-Domain-Policies', b'none'), (b'Permissions-Policy', b'publickey-credentials-create=(self),publickey-credentials-get=(self),accelerometer=(),ambient-light-sensor=(),autoplay=(),battery=(),camera=(),display-capture=(),document-domain=(),encrypted-media=(),execution-while-not-rendered=(),execution-while-out-of-viewport=(),fullscreen=(),gamepad=(),geolocation=(),gyroscope=(),hid=(),identity-credentials-get=(),idle-detection=(),local-fonts=(),magnetometer=(),microphone=(),midi=(),otp-credentials=(),payment=(),picture-in-picture=(),screen-wake-lock=(),serial=(),speaker-selection=(),storage-access=(),usb=(),web-share=(),xr-spatial-tracking=()')])
+[2026-04-20 23:10:29] [INFO] [httpx] HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] receive_response_body.started request=<Request [b'GET']>
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] receive_response_body.complete
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] response_closed.started
+[2026-04-20 23:10:29] [DEBUG] [httpcore.http11] response_closed.complete
+[2026-04-20 23:10:29] [DEBUG] [httpcore.connection] close.started
+[2026-04-20 23:10:29] [DEBUG] [httpcore.connection] close.complete
+[2026-04-20 23:10:29] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Dispatching request of type ListToolsRequest
+[2026-04-20 23:10:29] [DEBUG] [mcp.server.lowlevel.server] Response sent
+[2026-04-20 23:10:29] [INFO] [server.fastmcp_server] Server stopped

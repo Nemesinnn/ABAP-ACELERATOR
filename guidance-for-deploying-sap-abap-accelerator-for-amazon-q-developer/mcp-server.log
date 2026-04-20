@@ -1,0 +1,169 @@
+[2026-04-20 09:48:12] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 09:48:12] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 09:48:12] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 09:48:12] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server on localhost:8000
+[2026-04-20 09:48:13] [INFO] [httpx] HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+[2026-04-20 09:48:13] [INFO] [mcp.server.streamable_http_manager] StreamableHTTP session manager started
+[2026-04-20 09:52:03] [INFO] [mcp.server.streamable_http_manager] Created new transport with session ID: 40d031fd0a9742cebce4a6c265b8015c
+[2026-04-20 09:52:03] [INFO] [mcp.server.streamable_http_manager] Created new transport with session ID: 3e6e7712f3fe4357a8b3e0a2b3c0446e
+[2026-04-20 09:52:03] [INFO] [mcp.server.streamable_http_manager] Created new transport with session ID: 759299c2224648e397dc06fe5009cfe4
+[2026-04-20 09:52:03] [INFO] [mcp.server.lowlevel.server] Processing request of type ListToolsRequest
+[2026-04-20 09:52:59] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 09:52:59] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 09:52:59] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 09:52:59] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server on localhost:8000
+[2026-04-20 09:53:00] [INFO] [mcp.server.streamable_http_manager] StreamableHTTP session manager started
+[2026-04-20 09:53:04] [INFO] [mcp.server.streamable_http_manager] Created new transport with session ID: 161e7c8a4a9049fab5363c48911f4b57
+[2026-04-20 09:55:08] [INFO] [mcp.server.streamable_http_manager] StreamableHTTP session manager shutting down
+[2026-04-20 09:55:08] [INFO] [server.fastmcp_server] Received signal 2, initiating shutdown...
+[2026-04-20 09:55:08] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 09:55:57] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 09:55:57] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 09:55:57] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 09:55:57] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server on localhost:8000
+[2026-04-20 10:16:30] [INFO] [server.fastmcp_server] Received signal 2, initiating shutdown...
+[2026-04-20 10:16:30] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 10:16:45] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 10:16:45] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 10:16:45] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 10:16:45] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server on localhost:8000
+[2026-04-20 11:39:34] [INFO] [server.fastmcp_server] Received signal 2, initiating shutdown...
+[2026-04-20 11:39:34] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 11:41:51] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 11:41:51] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 11:41:51] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 11:41:51] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server on localhost:8000
+[2026-04-20 11:44:35] [INFO] [server.fastmcp_server] Received signal 2, initiating shutdown...
+[2026-04-20 11:44:35] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 11:45:22] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 11:45:22] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 11:45:22] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 11:45:22] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server on localhost:8000
+[2026-04-20 12:13:09] [INFO] [server.fastmcp_server] Received signal 2, initiating shutdown...
+[2026-04-20 12:13:09] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 12:13:18] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 12:13:18] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 12:13:18] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 12:13:18] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 12:13:18] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 12:13:18] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 12:13:18] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 12:13:18] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 12:13:18] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 12:13:18] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server on localhost:8000
+[2026-04-20 12:13:18] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 12:13:18] [DEBUG] [mcp.server.sse] SseServerTransport initialized with endpoint: /messages/
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Setting up SSE connection
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Created new session with ID: 772dc912-ab7a-4fde-a59c-8c6618d13761
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Starting SSE response task
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Yielding read and write streams
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Starting SSE writer
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Setting up SSE connection
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Created new session with ID: 6aaa1d2e-50d9-4da5-90a0-c72b3e2439d4
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Starting SSE response task
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Yielding read and write streams
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Sent endpoint event: /messages/?session_id=772dc912ab7a4fdea59c8c6618d13761
+[2026-04-20 12:13:21] [DEBUG] [sse_starlette.sse] chunk: b'event: endpoint\r\ndata: /messages/?session_id=772dc912ab7a4fdea59c8c6618d13761\r\n\r\n'
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Starting SSE writer
+[2026-04-20 12:13:21] [DEBUG] [mcp.server.sse] Sent endpoint event: /messages/?session_id=6aaa1d2e50d94da590a0c72b3e2439d4
+[2026-04-20 12:13:21] [DEBUG] [sse_starlette.sse] chunk: b'event: endpoint\r\ndata: /messages/?session_id=6aaa1d2e50d94da590a0c72b3e2439d4\r\n\r\n'
+[2026-04-20 12:13:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:13:36.197519+00:00\r\n\r\n'
+[2026-04-20 12:13:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:13:36.208858+00:00\r\n\r\n'
+[2026-04-20 12:13:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:13:51.217082+00:00\r\n\r\n'
+[2026-04-20 12:13:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:13:51.220740+00:00\r\n\r\n'
+[2026-04-20 12:14:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:06.234549+00:00\r\n\r\n'
+[2026-04-20 12:14:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:06.237396+00:00\r\n\r\n'
+[2026-04-20 12:14:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:21.246479+00:00\r\n\r\n'
+[2026-04-20 12:14:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:21.247896+00:00\r\n\r\n'
+[2026-04-20 12:14:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:36.254711+00:00\r\n\r\n'
+[2026-04-20 12:14:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:36.258819+00:00\r\n\r\n'
+[2026-04-20 12:14:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:51.268105+00:00\r\n\r\n'
+[2026-04-20 12:14:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:14:51.269949+00:00\r\n\r\n'
+[2026-04-20 12:15:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:06.275209+00:00\r\n\r\n'
+[2026-04-20 12:15:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:06.276008+00:00\r\n\r\n'
+[2026-04-20 12:15:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:21.292066+00:00\r\n\r\n'
+[2026-04-20 12:15:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:21.293447+00:00\r\n\r\n'
+[2026-04-20 12:15:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:36.295002+00:00\r\n\r\n'
+[2026-04-20 12:15:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:36.296118+00:00\r\n\r\n'
+[2026-04-20 12:15:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:51.311803+00:00\r\n\r\n'
+[2026-04-20 12:15:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:15:51.314241+00:00\r\n\r\n'
+[2026-04-20 12:16:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:06.328609+00:00\r\n\r\n'
+[2026-04-20 12:16:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:06.333348+00:00\r\n\r\n'
+[2026-04-20 12:16:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:21.349860+00:00\r\n\r\n'
+[2026-04-20 12:16:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:21.356183+00:00\r\n\r\n'
+[2026-04-20 12:16:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:36.372547+00:00\r\n\r\n'
+[2026-04-20 12:16:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:36.373515+00:00\r\n\r\n'
+[2026-04-20 12:16:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:51.379763+00:00\r\n\r\n'
+[2026-04-20 12:16:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:16:51.382265+00:00\r\n\r\n'
+[2026-04-20 12:17:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:06.402635+00:00\r\n\r\n'
+[2026-04-20 12:17:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:06.403618+00:00\r\n\r\n'
+[2026-04-20 12:17:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:21.414137+00:00\r\n\r\n'
+[2026-04-20 12:17:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:21.415653+00:00\r\n\r\n'
+[2026-04-20 12:17:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:36.426261+00:00\r\n\r\n'
+[2026-04-20 12:17:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:36.429603+00:00\r\n\r\n'
+[2026-04-20 12:17:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:51.439561+00:00\r\n\r\n'
+[2026-04-20 12:17:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:17:51.441341+00:00\r\n\r\n'
+[2026-04-20 12:18:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:06.450261+00:00\r\n\r\n'
+[2026-04-20 12:18:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:06.453586+00:00\r\n\r\n'
+[2026-04-20 12:18:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:21.462854+00:00\r\n\r\n'
+[2026-04-20 12:18:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:21.468781+00:00\r\n\r\n'
+[2026-04-20 12:18:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:36.480927+00:00\r\n\r\n'
+[2026-04-20 12:18:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:36.482095+00:00\r\n\r\n'
+[2026-04-20 12:18:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:51.514089+00:00\r\n\r\n'
+[2026-04-20 12:18:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:18:51.523592+00:00\r\n\r\n'
+[2026-04-20 12:19:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:06.562072+00:00\r\n\r\n'
+[2026-04-20 12:19:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:06.564278+00:00\r\n\r\n'
+[2026-04-20 12:19:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:21.574222+00:00\r\n\r\n'
+[2026-04-20 12:19:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:21.577066+00:00\r\n\r\n'
+[2026-04-20 12:19:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:36.588484+00:00\r\n\r\n'
+[2026-04-20 12:19:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:36.589447+00:00\r\n\r\n'
+[2026-04-20 12:19:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:51.595259+00:00\r\n\r\n'
+[2026-04-20 12:19:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:19:51.598611+00:00\r\n\r\n'
+[2026-04-20 12:20:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:06.603408+00:00\r\n\r\n'
+[2026-04-20 12:20:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:06.605705+00:00\r\n\r\n'
+[2026-04-20 12:20:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:21.615721+00:00\r\n\r\n'
+[2026-04-20 12:20:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:21.616977+00:00\r\n\r\n'
+[2026-04-20 12:20:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:36.619692+00:00\r\n\r\n'
+[2026-04-20 12:20:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:36.621698+00:00\r\n\r\n'
+[2026-04-20 12:20:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:51.632742+00:00\r\n\r\n'
+[2026-04-20 12:20:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:20:51.634051+00:00\r\n\r\n'
+[2026-04-20 12:21:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:06.639259+00:00\r\n\r\n'
+[2026-04-20 12:21:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:06.642487+00:00\r\n\r\n'
+[2026-04-20 12:21:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:21.653178+00:00\r\n\r\n'
+[2026-04-20 12:21:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:21.660237+00:00\r\n\r\n'
+[2026-04-20 12:21:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:36.663743+00:00\r\n\r\n'
+[2026-04-20 12:21:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:36.665579+00:00\r\n\r\n'
+[2026-04-20 12:21:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:51.671073+00:00\r\n\r\n'
+[2026-04-20 12:21:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:21:51.672758+00:00\r\n\r\n'
+[2026-04-20 12:22:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:06.676732+00:00\r\n\r\n'
+[2026-04-20 12:22:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:06.677988+00:00\r\n\r\n'
+[2026-04-20 12:22:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:21.687548+00:00\r\n\r\n'
+[2026-04-20 12:22:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:21.689872+00:00\r\n\r\n'
+[2026-04-20 12:22:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:36.706693+00:00\r\n\r\n'
+[2026-04-20 12:22:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:36.708095+00:00\r\n\r\n'
+[2026-04-20 12:22:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:51.722773+00:00\r\n\r\n'
+[2026-04-20 12:22:51] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:22:51.724619+00:00\r\n\r\n'
+[2026-04-20 12:23:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:23:06.731728+00:00\r\n\r\n'
+[2026-04-20 12:23:06] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:23:06.732848+00:00\r\n\r\n'
+[2026-04-20 12:23:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:23:21.741422+00:00\r\n\r\n'
+[2026-04-20 12:23:21] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:23:21.742901+00:00\r\n\r\n'
+[2026-04-20 12:23:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:23:36.755465+00:00\r\n\r\n'
+[2026-04-20 12:23:36] [DEBUG] [sse_starlette.sse] ping: b': ping - 2026-04-20 10:23:36.758067+00:00\r\n\r\n'
+[2026-04-20 12:23:43] [DEBUG] [sse_starlette.sse] Got event: http.disconnect. Stop streaming.
+[2026-04-20 12:23:43] [DEBUG] [sse_starlette.sse] Got event: http.disconnect. Stop streaming.
+[2026-04-20 12:23:43] [DEBUG] [root] Client session disconnected 772dc912-ab7a-4fde-a59c-8c6618d13761
+[2026-04-20 12:23:43] [DEBUG] [root] Client session disconnected 6aaa1d2e-50d9-4da5-90a0-c72b3e2439d4
+[2026-04-20 12:23:43] [INFO] [server.fastmcp_server] Received signal 2, initiating shutdown...
+[2026-04-20 12:23:43] [INFO] [server.fastmcp_server] Server stopped
+[2026-04-20 16:00:26] [DEBUG] [mcp.server.lowlevel.server] Initializing server 'ABAP-Accelerator'
+[2026-04-20 16:00:26] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListToolsRequest
+[2026-04-20 16:00:26] [DEBUG] [mcp.server.lowlevel.server] Registering handler for ListResourcesRequest
+[2026-04-20 16:00:26] [DEBUG] [mcp.server.lowlevel.server] Registering handler for PromptListRequest
+[2026-04-20 16:00:26] [DEBUG] [mcp.server.lowlevel.server] Registering handler for CallToolRequest
+[2026-04-20 16:00:26] [DEBUG] [mcp.server.lowlevel.server] Registering handler for SetLevelRequest
+[2026-04-20 16:00:26] [INFO] [server.fastmcp_server] SAP client initialized successfully
+[2026-04-20 16:00:26] [INFO] [server.fastmcp_server] MCP tools registered successfully
+[2026-04-20 16:00:26] [INFO] [server.fastmcp_server] FastMCP server configured successfully
+[2026-04-20 16:00:26] [INFO] [server.fastmcp_server] Starting ABAP-Accelerator MCP server with STDIO transport
+[2026-04-20 16:00:26] [DEBUG] [asyncio] Using proactor: IocpProactor
+[2026-04-20 16:01:01] [INFO] [server.fastmcp_server] Server stopped
